@@ -1,15 +1,15 @@
 [ {
-  "Name": "SC-400T00A-Microsoft-Information-Protection-Administrator",
-  "Language": "English",
-  "BaseURL": "https://github.com/MicrosoftLearning/SC-400T00A-Microsoft-Information-Protection-Administrator",
-  "Files": [
-     {
-        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/SC-400T00A-Microsoft-Information-Protection-Administrator/master/Instructions/Labs/LAB_AK_01_Lab1_Ex1_compliance_roles.md",
-       "Order": 1
-     },
-    {
-        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/SC-400T00A-Microsoft-Information-Protection-Administrator/master/Instructions/Labs/LAB_AK_01_Lab1_Ex2_message_encryption.md",
-       "Order": 2
+"Name": "SC-400T00A-Microsoft-Information-Protection-Administrator",
+"Language": "English",
+"BaseURL": "https://github.com/MicrosoftLearning/SC-400T00A-Microsoft-Information-Protection-Administrator",
+"Files": [
+{
+"RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/SC-400T00A-Microsoft-Information-Protection-Administrator/master/Instructions/Labs/LAB_AK_01_Lab1_Ex1_compliance_roles.md",
+"Order": 1
+},
+{
+"RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/SC-400T00A-Microsoft-Information-Protection-Administrator/master/Instructions/Labs/LAB_AK_01_Lab1_Ex2_message_encryption.md",
+"Order": 2
      },
     {
       "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/SC-400T00A-Microsoft-Information-Protection-Administrator/master/Instructions/Labs/LAB_AK_01_Lab1_Ex3_Sensitive_Information_Types.md",
