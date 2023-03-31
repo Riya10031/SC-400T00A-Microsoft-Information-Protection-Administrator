@@ -10,55 +10,55 @@
 {
 "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/SC-400T00A-Microsoft-Information-Protection-Administrator/master/Instructions/Labs/LAB_AK_01_Lab1_Ex2_message_encryption.md",
 "Order": 2
-     },
-    {
-      "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/SC-400T00A-Microsoft-Information-Protection-Administrator/master/Instructions/Labs/LAB_AK_01_Lab1_Ex3_Sensitive_Information_Types.md",
-      "Order": 3
-    },
-    {
-        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/SC-400T00A-Microsoft-Information-Protection-Administrator/master/Instructions/Labs/LAB_AK_01_Lab1_Ex4_Trainable_Classifiers.md",
-        "Order": 4
-       },
-       {
-        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/SC-400T00A-Microsoft-Information-Protection-Administrator/master/Instructions/Labs/LAB_AK_01_Lab1_Ex5_Sensitivity_Labels.md",
-        "Order": 5
-        },
-        {
-        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/SC-400T00A-Microsoft-Information-Protection-Administrator/master/Instructions/Labs/LAB_AK_02_Lab1_Ex1_DLP_policies.md",
-        "Order": 6
-       },
-       {
-        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/SC-400T00A-Microsoft-Information-Protection-Administrator/master/Instructions/Labs/LAB_AK_02_Lab1_Ex2_Endpoint_DLP.md",
-        "Order": 7
-        },
-        {
-          "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/SC-400T00A-Microsoft-Information-Protection-Administrator/master/Instructions/Labs/LAB_AK_02_Lab1_Ex3_DLP_reports.md",
-          "Order": 8
-       },
-      {
-        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/SC-400T00A-Microsoft-Information-Protection-Administrator/master/Instructions/Labs/LAB_AK_03_Lab1_Ex1_retention_policies.md",
-        "Order": 9
-      },
-      {
-        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/SC-400T00A-Microsoft-Information-Protection-Administrator/master/Instructions/Labs/LAB_AK_03_Lab1_Ex2_retention_labels.md",
-        "Order": 10
-       },
-       {
-        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/SC-400T00A-Microsoft-Information-Protection-Administrator/master/Instructions/Labs/LAB_AK_03_Lab1_Ex3_service_based_retention.md",
-        "Order": 11
-        },
-        {
-        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/SC-400T00A-Microsoft-Information-Protection-Administrator/master/Instructions/Labs/LAB_AK_03_Lab1_Ex4_event_based_retention.md",
-        "Order": 12
-       },
-       {
-        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/SC-400T00A-Microsoft-Information-Protection-Administrator/master/Instructions/Labs/LAB_AK_03_Lab1_Ex5_eDiscovery_recovery.md",
-        "Order": 13
-        },
-        {
-        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/SC-400T00A-Microsoft-Information-Protection-Administrator/master/Instructions/Labs/LAB_AK_03_Lab1_Ex6_records_management.md",
-        "Order": 14
-        }
+},
+{
+"RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/SC-400T00A-Microsoft-Information-Protection-Administrator/master/Instructions/Labs/LAB_AK_01_Lab1_Ex3_Sensitive_Information_Types.md",
+"Order": 3
+},
+{
+"RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/SC-400T00A-Microsoft-Information-Protection-Administrator/master/Instructions/Labs/LAB_AK_01_Lab1_Ex4_Trainable_Classifiers.md",
+"Order": 4
+},
+{
+"RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/SC-400T00A-Microsoft-Information-Protection-Administrator/master/Instructions/Labs/LAB_AK_01_Lab1_Ex5_Sensitivity_Labels.md",
+"Order": 5
+},
+{
+"RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/SC-400T00A-Microsoft-Information-Protection-Administrator/master/Instructions/Labs/LAB_AK_02_Lab1_Ex1_DLP_policies.md",
+"Order": 6
+},
+{
+"RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/SC-400T00A-Microsoft-Information-Protection-Administrator/master/Instructions/Labs/LAB_AK_02_Lab1_Ex2_Endpoint_DLP.md",
+"Order": 7
+},
+{
+"RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/SC-400T00A-Microsoft-Information-Protection-Administrator/master/Instructions/Labs/LAB_AK_02_Lab1_Ex3_DLP_reports.md",
+"Order": 8
+},
+{
+"RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/SC-400T00A-Microsoft-Information-Protection-Administrator/master/Instructions/Labs/LAB_AK_03_Lab1_Ex1_retention_policies.md",
+"Order": 9
+},
+{
+"RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/SC-400T00A-Microsoft-Information-Protection-Administrator/master/Instructions/Labs/LAB_AK_03_Lab1_Ex2_retention_labels.md",
+"Order": 10
+},
+{
+"RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/SC-400T00A-Microsoft-Information-Protection-Administrator/master/Instructions/Labs/LAB_AK_03_Lab1_Ex3_service_based_retention.md",
+"Order": 11
+},
+{
+"RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/SC-400T00A-Microsoft-Information-Protection-Administrator/master/Instructions/Labs/LAB_AK_03_Lab1_Ex4_event_based_retention.md",
+"Order": 12
+},
+{
+"RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/SC-400T00A-Microsoft-Information-Protection-Administrator/master/Instructions/Labs/LAB_AK_03_Lab1_Ex5_eDiscovery_recovery.md",
+"Order": 13
+},
+{
+"RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/SC-400T00A-Microsoft-Information-Protection-Administrator/master/Instructions/Labs/LAB_AK_03_Lab1_Ex6_records_management.md",
+"Order": 14
+}
 
-  ]
+]
 } ]
