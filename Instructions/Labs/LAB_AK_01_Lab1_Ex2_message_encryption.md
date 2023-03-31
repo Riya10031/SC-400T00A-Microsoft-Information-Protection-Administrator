@@ -1,9 +1,3 @@
----
-lab:
-    title: 'Exercise 2 - Manage Microsoft Purview Message Encryption'
-    module: 'Module 1 - Implement Information Protection'
----
-
 # Lab 1 - Exercise 2 - Manage Office 365 Message Encryption
 
 The first setting Joni Sherman needs to configure and test with her pilot team is the Microsoft 365 built-in Office 365 Message Encryption (OME). For this purpose, she will modify the default template and create a new branding template, that will be assigned to one of the pilot users. The pilot users will then test the OME functionality with their accounts.
@@ -12,7 +6,11 @@ The first setting Joni Sherman needs to configure and test with her pilot team i
 
 In this task, you will install the Exchange Online PowerShell module and verify the correct Azure RMS functionality of your tenant in context of Joni Sherman, who was assigned the role of the Compliance Administrator in the last exercise.
 
-1. You should still be logged into your Client 1 VM (LON-CL1) as the **lon-cl1\admin** account.
+1.  Log into the Azure portal, type and search for **Virtual Machine**, then select **LON-CL1-<inject key="DeploymentID" enableCopy="false"/>**, then select **Connect** > **RDP** > **Download RDP file**, run the downloaded the file, select **Connect**, login as **lon-cl1\azureuser** account. The username and password should be provided on the enviornment page.
+
+2. Make sure all available Windows Updates are installed and the client does not require a restart to finish update installation.
+
+1. Open **Microsoft Edge** from the taskbar and when a **Welcome to Microsoft Edge** windows is displayed, select **Start without your data**, select **Continue without this data** again and select **Confirm and start browsing**.
 
 1. Open an elevated PowerShell window by selecting the Windows button with the right mouse button and then select **Windows PowerShell (Admin)**.
 
