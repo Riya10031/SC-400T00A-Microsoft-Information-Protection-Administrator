@@ -1,10 +1,3 @@
----
-lab:
-    title: 'Exercise 1 - Manage Compliance Roles'
-    module: 'Module 1 - Implement Information Protection'
----
-
-
 # Lab 1 - Exercise 1 - Manage Compliance Roles
 
 In your role as Joni Sherman, the newly hired Compliance Administrator for Contoso Ltd. you are tasked to configure the new Microsoft 365 tenant of your organization, to meet the organizations compliance requirements. Contoso Ltd. is a company with a headquarters in the United States and several new subsidiaries in the European Union and your organization needs to make sure the new Microsoft 365 tenant fulfills the legal requirements of different countries and regulatory requirements of your industry sector.
@@ -13,7 +6,7 @@ In your role as Joni Sherman, the newly hired Compliance Administrator for Conto
 
 In this exercise, you will follow the principal of least privilege and use the default Global Administrator to assign the Compliance Admin role to Joni Sherman, which is required to perform the operations described in this lab.
 
-1. Log into the Client 1 VM (LON-CL1) as the **lon-cl1\admin** account. The password should be provided by your lab hosting provider.
+1. Log into the Azure portal, type and search for **Virtual Machine**, then select **LON-CL1-<inject key="DeploymentID" enableCopy="false"/>**, then select **Connect** > **RDP** > **Download RDP file** **lon-cl1\azureuser** account. The password should be provided by your lab hosting provider.
 
 1. Make sure all available Windows Updates are installed and the client does not require a restart to finish update installation.
 
