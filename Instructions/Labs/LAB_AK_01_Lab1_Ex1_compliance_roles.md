@@ -6,15 +6,15 @@ In your role as Joni Sherman, the newly hired Compliance Administrator for Conto
 
 In this exercise, you will follow the principal of least privilege and use the default Global Administrator to assign the Compliance Admin role to Joni Sherman, which is required to perform the operations described in this lab.
 
-1. Log into the Azure portal, type and search for **Virtual Machine**, then select **LON-CL1-<inject key="DeploymentID" enableCopy="false"/>**, then select **Connect** > **RDP** > **Download RDP file** **lon-cl1\azureuser** account. The password should be provided by your lab hosting provider.
+1. Log into the Azure portal, type and search for **Virtual Machine**, then select **LON-CL1-<inject key="DeploymentID" enableCopy="false"/>**, then select **Connect** > **RDP** > **Download RDP file**, run the downloaded the file, select **Connect**, login as **lon-cl1\admin** account. The username and password should be provided on the enviornment page.
 
 1. Make sure all available Windows Updates are installed and the client does not require a restart to finish update installation.
 
 1. Open **Microsoft Edge** from the taskbar and when a **Welcome to Microsoft Edge** windows is displayed, select **Start without your data**, select **Continue without this data** again and select **Confirm and start browsing**.
 
-1. If the welcome message is missing, navigate to https://microsoft.com/edge, select **DOWNLOAD for Windows** and **Windows 10**. Select **Accept and download** and **Run** to install the latest version of the Edge browser. Once this is complete perform the previous step.
+1. If the welcome message is missing, navigate to https://microsoft.com/edge, select **DOWNLOAD** and select **Download for Windows**. Select **Accept and download** and **Run** to install the latest version of the Edge browser. Once this is complete perform the previous step.
 
-1. In **Microsoft Edge**, select the address bar, navigate to **https://admin.microsoft.com** and log into the Microsoft 365 admin center as **MOD Administrator** admin@WWLxZZZZZZ.onmicrosoft.com (where ZZZZZZ is your unique tenant ID provided by your lab hosting provider). Admin's password should be provided by your lab hosting provider.
+1. In **Microsoft Edge**, select the address bar, navigate to **https://admin.microsoft.com** and log into the Microsoft 365 admin center as **MOD Administrator**. provide the Admin's username and Admin's password given in the enviornment details page.
 
 1. On the **Stay signed in?** dialog box, select the **Don’t show this again** checkbox and then select **No**.
 
@@ -54,13 +54,13 @@ You have successfully assigned Joni Sherman the Compliance Administrator role, w
 
 In this task, you will sign out of the global admin account and sign-in again as Joni Sherman. Now that Joni Sherman was just assigned the Compliance admin role, her account will be sufficient for most of this lab's exercises.
 
-1. You should still be logged into your Client 1 VM (LON-CL1) as the **lon-cl1\admin** account. 
+1. You should still be logged into your Client 1 VM **LON-CL1-<inject key="DeploymentID" enableCopy="false"/>** as the **lon-cl1\admin** account. 
 
 1. In **Microsoft Edge**, navigate to **https://compliance.microsoft.com**.
 
 1. When the **Pick an account** window is displayed, select **Use another account**.
 
-1. When the **Sign in** window is displayed, sign in as JoniS@WWLxZZZZZZ.onmicrosoft.com (where ZZZZZZ is your unique tenant ID provided by your lab hosting provider).  Joni's password should be provided by your lab hosting provider.  Hint: The password is probably the same as the MOD Administrator used earlier.
+1. When the **Sign in** window is displayed, sign in as Joni Shermon account.  Joni's password should be provided by your lab hosting provider.  Hint: The password is probably the same as the MOD Administrator used earlier.
 
 1. If the **Improve your compliance posture** message window opens, read the text and select **Next** twice and then select **Done**. 
 
